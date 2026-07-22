@@ -14,12 +14,10 @@ This portfolio showcases my skills, projects, professional experience, education
 ---
 
 ### Portfolio Screenshot
-
-You can also add multiple screenshots:
- [Home] (<img width="1291" height="632" alt="image" src="https://github.com/user-attachments/assets/764bacc9-ba32-4a2e-a6aa-8c3dbf9abad9" />
- [About] (<img width="1262" height="509" alt="image" src="https://github.com/user-attachments/assets/24435ba3-7ef3-4232-b71e-e80e0150f1fa" />
-[Skills] (<img width="1258" height="572" alt="image" src="https://github.com/user-attachments/assets/42be1aba-81f3-499d-b59b-914b05e63052" />
-[Projects] (<img width="1227" height="570" alt="image" src="https://github.com/user-attachments/assets/c57f3149-5278-427b-bebc-67fcdf55872b" />
+ [Home] <img width="1291" height="632" alt="image" src="https://github.com/user-attachments/assets/764bacc9-ba32-4a2e-a6aa-8c3dbf9abad9" />
+ [About] <img width="1262" height="509" alt="image" src="https://github.com/user-attachments/assets/24435ba3-7ef3-4232-b71e-e80e0150f1fa" />
+[Skills] <img width="1258" height="572" alt="image" src="https://github.com/user-attachments/assets/42be1aba-81f3-499d-b59b-914b05e63052" />
+[Projects] <img width="1227" height="570" alt="image" src="https://github.com/user-attachments/assets/c57f3149-5278-427b-bebc-67fcdf55872b" />
 
 
 ---
