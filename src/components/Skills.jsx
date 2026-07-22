@@ -22,12 +22,12 @@ const skillGroups = [
   {
     title: "Backend",
     icon: <Server size={28} />,
-    skills: ["Spring Boot", "ASP.NET Core", "REST APIs", "Hibernate", "JPA"],
+    skills: ["Spring Boot", "ASP.NET Core", "REST APIs", "Hibernate", "JPA","Entity Framework Core"],
   },
   {
     title: "Database",
     icon: <Database size={28} />,
-    skills: ["MySQL", "SQL Server", "SQLite", "Entity Framework Core"],
+    skills: ["MySQL", "SQL Server", "SQLite"],
   },
   {
     title: "Tools & Technologies",
